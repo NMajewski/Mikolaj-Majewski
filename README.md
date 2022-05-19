@@ -12,4 +12,3 @@
 [linkedin]:https://www.linkedin.com/in/majewskimikolaj
 [instagram]: https://instagram.com/nick.maje
 
-### Languages and Tools:
