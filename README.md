@@ -1,6 +1,6 @@
 ### Hello, my name is Mikolaj Majewski
 
-## I'm a Student, Aspiring Software Developer, and a Polyglot!
+## I'm a Student and an Aspiring Software Developer!
 - I'm currently working on a Audio engineering project.
 - I'm eager to keep learning and I am passionate about what I do.
 - Some of my goals for this year are to contribute to Open Source projects, and make some of my own.
