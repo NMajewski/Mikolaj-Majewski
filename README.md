@@ -1,4 +1,4 @@
-### Hello, my name is Mikolaj Majewski
+### Hello, my name is Nicholas Majewski
 
 ## Computer Science Student, Aspiring Software Developer
 - I'm currently working on a Audio engineering project written in Java.
